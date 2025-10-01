@@ -15,6 +15,6 @@ public class SpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "application deployed successfully";
+		return "application deployed successfully Saravana";
 	}
 }
